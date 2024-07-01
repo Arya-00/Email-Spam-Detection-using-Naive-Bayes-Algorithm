@@ -44,9 +44,10 @@ The dataset used for this project consists of labeled emails, where each email i
 2. **Probability Summation:** Sum the logarithms of the probabilities rather than multiplying the raw probabilities.
 
 ## Requirements
-1. Pandas V.2.2.1
-2. Numpy V.1.26.4
-3. NLTK V.3.8.1
+1. Python `V.3.9.18`
+2. Pandas `V.2.2.1`
+3. Numpy `V.1.26.4`
+4. NLTK `V.3.8.1`
 
 ## Results
 1. Accuracy: `99.21%`
